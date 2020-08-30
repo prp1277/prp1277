@@ -3,7 +3,7 @@
 Data processing and analytics.
 
 My primary tools are:
-Excel, Python, SQL, Power BI, Power Query M, DAX, PowerShell
+Excel, Python, SQL, Linux, Power BI, Power Query M, DAX, PowerShell
 
 ## 📫 How to reach me:...
 
